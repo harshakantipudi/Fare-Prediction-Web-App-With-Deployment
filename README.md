@@ -5,7 +5,7 @@
   * [Overview](#overview)
   * [Motivation](#motivation)
   * [Installation](#installation)
-  * [Deployement on Heroku](#Tools and Technologies Used)
+  * [Tools and Technologies Used](#Tools and Technologies Used)
   * [Deployement on Heroku](#deployement-on-heroku)
   * [Directory Tree](#directory-tree)
   * [Bug / Feature Request](#bug---feature-request)
