@@ -5,10 +5,8 @@
   * [Overview](#overview)
   * [Motivation](#motivation)
   * [Installation](#installation)
-  * [Tools and Technologies Used](#Tools and Technologies Used)
   * [Deployement on Heroku](#deployement-on-heroku)
   * [Directory Tree](#directory-tree)
-  * [Bug / Feature Request](#bug---feature-request)
   * [Future scope of project](#future-scope)
 
 
@@ -60,11 +58,6 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 ├── flight_rf.pkl
 ├── requirements.txt
 ```
-
-
-## Bug / Feature Request
-
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/Mandal-21/Flight-Price-Prediction/issues) here by including your search query and the expected result
 
 ## Future Scope
 
